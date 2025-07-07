@@ -69,7 +69,7 @@ At the top of your `taskcli.py` file, add the following line to specify the Pyth
 Run the following command in your terminal to make the script executable:
 
 ```bash
-chmod +x taskcli.py
+chmod +x TaskCLI.py
 ```
 
 ### 4. Move the script to a directory in your PATH
@@ -77,7 +77,7 @@ chmod +x taskcli.py
 Move the script to a directory that is included in your system's `PATH`, such as `/usr/local/bin`:
 
 ```bash
-mv taskcli.py /usr/local/bin/task-cli
+mv TaskCLI.py /usr/local/bin/task-cli
 ```
 
 ### 5. Run the script
